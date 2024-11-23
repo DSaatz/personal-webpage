@@ -7,7 +7,7 @@ export default function SocialLinks() {
         <h2 className="text-4xl font-bold mb-8">Connect With Me</h2>
         <div className="flex justify-center space-x-4">
           <a
-            href="https://www.linkedin.com/in/your-profile"
+            href="https://www.linkedin.com/in/dominik-saatz/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center bg-white text-gray-900 px-6 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors duration-300"
@@ -16,7 +16,7 @@ export default function SocialLinks() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/dsaatz"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center bg-white text-gray-900 px-6 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors duration-300"
