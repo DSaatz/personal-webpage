@@ -16,7 +16,7 @@ const projects = [
     title: 'Quiz App',
     description: 'An Android applications that allows to take and create quizzes. Designed with employee training in mind.',
     image: '/Quiz_App_Preview.png', // Find an image that scales better
-    link: '#', //Add link to video demo
+    link: 'https://youtu.be/AxhuhPA-mcY', 
   },
   {
     id: 3,
