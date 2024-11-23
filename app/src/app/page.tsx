@@ -9,7 +9,7 @@ export default function Home() {
       <Hero />
       <SocialLinks />
       <Projects />
-      <Contact />
+      
     </main>
   )
 }
